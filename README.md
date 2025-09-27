@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, We'r Team ASTROINTEL.</h1>
+<h1 align="center">Hi 👋, We are Team ASTROINTEL.</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishshinde04&label=Profile%20views&color=0e75b6&style=flat" alt="manishshinde04" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishshinde04" alt="manishshinde04" /></a> </p>
 
-- 🔭 I’m currently working on **Space Biology Knowledge Engine — Exploring how life can thrive beyond Earth.**
+- 🔭 We are currently working on **Space Biology Knowledge Engine — Exploring how life can thrive beyond Earth.**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Python, APIs & Frameworks**
+- 🌱  We are currently learning **HTML, CSS, JavaScript, Python, APIs & Frameworks**
 
-- 👯 I’m looking to collaborate on **NASA — open to collaboration on space biology, data visualisation and web tools. Interested?**
+- 👯  We are looking to collaborate on **NASA — open to collaboration on space biology, data visualisation and web tools. Interested?**
 
-- 📫 How to reach me **shindepatilmanish@gmail.com**
+- 📫 How to reach us **shindepatilmanish@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact ** We think  We are Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
